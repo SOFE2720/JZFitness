@@ -27,5 +27,5 @@ Major Features:
 
 ## Table of Contents
 
-1. [main](JZFitness/main)
-..* Hello
+1. [main](https://github.com/SOFE2720/JZFitness/edit/main/README.md)
+
