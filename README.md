@@ -14,7 +14,7 @@ Marketing Team - The marketing team, consisting of a two man team, takes respons
 
 End Users - This would be anyone who wants to start a home fitness journey and have it being structured.
 
-# Vision Statement
+## Vision Statement
 
 JZ Fitness will give a wide array of fitness plans based on the given data that the user puts in. It will be presented in a pleasant and aesthetic way. The scope of the product will result in a diverse but simplistic interface consisting of an aesthetic filtering system driven by the user’s preferences.
 
