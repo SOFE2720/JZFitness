@@ -27,4 +27,4 @@ Major Features:
 
 ## Table of Contents
 
-1. 
+{:toc max_level=3 }
