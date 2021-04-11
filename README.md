@@ -29,7 +29,7 @@ Major Features:
 
 1. [Main Folder](https://github.com/SOFE2720/JZFitness)
      * i.) [Traceability Matrix](https://github.com/SOFE2720/JZFitness/blob/main/Traceability%20Matrix.xlsx)
-     * ii.) [Team Assessment Report]()
+     * ii.) [Team Assessment Report](https://github.com/SOFE2720/JZFitness/blob/main/Team_Reflection_Assessment.pdf)
 2. [Code Folder](https://github.com/SOFE2720/JZFitness/tree/main/Code)
      * i.) [Calorie-Calculator](https://github.com/SOFE2720/JZFitness/tree/main/Code/Calorie-Calculator)
      * ii.) [FilterSystem](https://github.com/SOFE2720/JZFitness/tree/main/Code/FilterSystem)
