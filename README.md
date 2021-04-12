@@ -30,16 +30,19 @@ Major Features:
 1. [Main Folder](https://github.com/SOFE2720/JZFitness)
      * i.) [Traceability Matrix](https://github.com/SOFE2720/JZFitness/blob/main/Traceability%20Matrix.xlsx)
      * ii.) [Team Assessment Report](https://github.com/SOFE2720/JZFitness/blob/main/Team_Reflection_Assessment.pdf)
+ 
 2. [Code Folder](https://github.com/SOFE2720/JZFitness/tree/main/Code)
      * i.) [Calorie-Calculator](https://github.com/SOFE2720/JZFitness/tree/main/Code/Calorie-Calculator)
      * ii.) [FilterSystem](https://github.com/SOFE2720/JZFitness/tree/main/Code/FilterSystem)
      * iii.) [MainPage](https://github.com/SOFE2720/JZFitness/tree/main/Code/MainPage)
+ 
 3. [Desgin Folder](https://github.com/SOFE2720/JZFitness/tree/main/Design)
      * i.) [Behavioral Model](https://github.com/SOFE2720/JZFitness/blob/main/Design/Behavioral%20Model.png)
      * ii.) [Class Diagram](https://github.com/SOFE2720/JZFitness/blob/main/Design/Class%20Diagram.png)
      * iii.) [Design Prototype](https://github.com/SOFE2720/JZFitness/blob/main/Design/Design%20Prototype.pdf)
      * iv.) [Sequence Diagram](https://github.com/SOFE2720/JZFitness/blob/main/Design/Sequence%20Diagram.png)
      * v.) [State Diagram](https://github.com/SOFE2720/JZFitness/blob/main/Design/State%20Diagram.png)
+ 
 4. [Requirements Folder](https://github.com/SOFE2720/JZFitness/tree/main/Requirements)
      * i.) [Requirements Diagram](https://github.com/SOFE2720/JZFitness/blob/main/Requirements/Requirements%20Diagram.png)
      * ii.) [List of Requirements](https://github.com/SOFE2720/JZFitness/blob/main/Requirements/List%20of%20Requirements.pdf)
@@ -47,8 +50,10 @@ Major Features:
      * iv.) [Fitness Features Specs](https://github.com/SOFE2720/JZFitness/blob/main/Requirements/Fitness%20Features%20Specs.png)
      * v.) [Filter System Features](https://github.com/SOFE2720/JZFitness/blob/main/Requirements/Filter%20System%20Specs.png)
      * vi.) [Requirements Review Report](https://github.com/SOFE2720/JZFitness/blob/main/Requirements/Review%20Report%20-%20Requirements.pdf)
+ 
 5. [Test Case Folder](https://github.com/SOFE2720/JZFitness/tree/main/Test%20Case)
      * i.) [Test Cases](https://github.com/SOFE2720/JZFitness/blob/main/Test%20Case/Test%20Cases.pdf)
+
 6.[Use Cases](https://github.com/SOFE2720/JZFitness/tree/main/Use%20Cases)
      * i.) [Use Case Diagram](https://github.com/SOFE2720/JZFitness/blob/main/Use%20Cases/Use%20Case%20Diagram.png)
      * ii.) [Use Case Details](https://github.com/SOFE2720/JZFitness/blob/main/Use%20Cases/Use%20Case%20Details.pdf)
