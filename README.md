@@ -49,7 +49,7 @@ Major Features:
      * vi.) [Requirements Review Report](https://github.com/SOFE2720/JZFitness/blob/main/Requirements/Review%20Report%20-%20Requirements.pdf)
 5. [Test Case Folder](https://github.com/SOFE2720/JZFitness/tree/main/Test%20Case)
      * i.) [Test Cases](https://github.com/SOFE2720/JZFitness/blob/main/Test%20Case/Test%20Cases.pdf)
-6.[Use Cases](https://github.com/SOFE2720/JZFitness/tree/main/Use%20Cases)
+6. [Use Cases](https://github.com/SOFE2720/JZFitness/tree/main/Use%20Cases)
      * i.) [Use Case Diagram](https://github.com/SOFE2720/JZFitness/blob/main/Use%20Cases/Use%20Case%20Diagram.png)
      * ii.) [Use Case Details](https://github.com/SOFE2720/JZFitness/blob/main/Use%20Cases/Use%20Case%20Details.pdf)
      * iii.) [JamBoard](https://github.com/SOFE2720/JZFitness/blob/main/Use%20Cases/JamBoard.pdf)
